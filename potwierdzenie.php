@@ -1,3 +1,0 @@
-
-Twoja wiadomość została wysłana.
-  
