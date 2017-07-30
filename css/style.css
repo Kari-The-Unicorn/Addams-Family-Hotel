@@ -357,3 +357,15 @@ table, th, td {
 .mytable {
     margin: 0 auto;
 }
+.div_onas{
+    border: 1px solid navy;
+    margin: 10px 0px 10px 0px;
+}
+.img_onas{
+display: block;
+float: left;
+}
+.li_onas p{
+    font-size: 20px;
+    line-height: 200%;
+}
