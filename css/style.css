@@ -226,7 +226,7 @@ list-style-position: inside;
    
 
     width: 200px;
-    height: 200px;
+    height: auto;
 
 
 }
@@ -364,8 +364,15 @@ table, th, td {
 .img_onas{
 display: block;
 float: left;
+padding:10px 10px 10px 10px;
+}
+
 }
 .li_onas p{
     font-size: 20px;
     line-height: 200%;
+}
+
+h4 {
+    margin: 10px 0px 0 20px;
 }
