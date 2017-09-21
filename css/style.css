@@ -226,12 +226,19 @@ list-style-position: inside;
    
 
     width: 200px;
-    height: auto;
+    height: 200px;
 
 
 }
 
+.gallery li img .img_onas {
+   
 
+    width: 200px;
+    height: auto;
+
+
+}
 
 
 .openedWindow {
