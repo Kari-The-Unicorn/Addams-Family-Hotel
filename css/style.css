@@ -314,7 +314,7 @@ width: 100%;
 #prev {
 
 display: inline-block;
-background-image: url("../Images/if_arrow-circle-left_1608515.png");
+background-image: url("../Images/arrow_left.png");
 background-repeat: no-repeat;
 background-size: contain;
 top:180px;
@@ -329,7 +329,7 @@ height: 64px;
 
 #next {
   display: inline-block;
- background-image: url("../Images/if_arrow-circle-right_1608520.png");
+ background-image: url("../Images/arrow_right.png");
 background-repeat: no-repeat;
 background-size: contain;
 top:180px;
